@@ -1,8 +1,8 @@
 {
-	"ip":"creativeopsmp.aternos.me",
-	"port":22014,
-	"name": "7afkbot7",
-	"auto-night-skip":"true",
+	"ip":"7customsmp7.aternos.me",
+	"port":63622,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
 	"login-cmd":"/login (type_ur_pass_here)"
